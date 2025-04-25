@@ -1,0 +1,9 @@
+Game_BeatSaber/
+files/
+/files/dataset_2_norm_10_0.5.pkl
+/files/feature
+/files/processed
+*.zip
+*.tmp
+
+
